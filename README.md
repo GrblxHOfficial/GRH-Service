@@ -1,5 +1,5 @@
 # service i will use to make scripts faster in tournaments :troll:
-# #
+# prepaing for: sirius coding challenge
 # #
 # #
 # #
