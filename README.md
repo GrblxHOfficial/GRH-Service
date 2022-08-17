@@ -1,4 +1,4 @@
-# making my service to make scripts faster in tournaments :troll:
+# service i will use to make scripts faster in tournaments :troll:
 # #
 # #
 # #
