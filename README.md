@@ -1,4 +1,4 @@
-# # gamin chair
+# #gamin-chair
 # #
 # #
 # #
